@@ -13,7 +13,7 @@ This repository provides a comprehensive setup for machine learning environments
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/amd-mi300-ml-stack.git
+git clone https://github.com/AI-DarwinLabs/amd-mi300-ml-stack.git
 cd amd-mi300-ml-stack
 ```
 
