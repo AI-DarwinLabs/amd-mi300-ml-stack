@@ -72,7 +72,3 @@ export RCCL_DEBUG=INFO
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Your chosen license]
