@@ -1,0 +1,6 @@
+vendor/deepspeed/*.tar.gz filter=lfs diff=lfs merge=lfs -text
+vendor/axolotl/*.zip filter=lfs diff=lfs merge=lfs -text
+vendor/bitsandbytes/*.whl filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.whl filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
