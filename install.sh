@@ -24,7 +24,6 @@ check_file() {
 # Check required files
 log "Checking required files..."
 check_file "environment.yml"
-check_file "vendor/deepspeed/DeepSpeed-0.15.4.tar.gz"
 check_file "vendor/bitsandbytes/bitsandbytes-0.44.1.dev0-py3-none-manylinux_2_24_x86_64.whl"
 check_file "vendor/axolotl/axolotl-0.5.2.zip"
 
