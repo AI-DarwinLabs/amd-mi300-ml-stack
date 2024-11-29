@@ -16,6 +16,8 @@ export PYTORCH_ROCM_ARCH="gfx90a;gfx942"
 git clone https://github.com/AI-DarwinLabs/deepspeed-stable-mi300.git tmp_deepspeed
 cd tmp_deepspeed
 
+# Install required packages
+pip install -r requirements/requirements.txt
 # Install with the same options as the original script
 pip install --verbose --no-cache-dir --no-build-isolation ./
 
