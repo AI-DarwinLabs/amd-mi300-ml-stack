@@ -1,8 +1,6 @@
 #!/bin/bash
 set -e
 
-DEEPSPEED_COMMIT="bf03f4835295bccc4765c9ae428c5d3e3ddb04fe"
-
 echo "Installing DeepSpeed..."
 pip uninstall deepspeed -y
 
